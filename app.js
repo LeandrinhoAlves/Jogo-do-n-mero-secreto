@@ -1,5 +1,5 @@
 let listaDeNumerosSorteados = [];
-let limiteDeTentativa = 3;
+let limiteDeTentativa = 10;
 
 
 function exibirNaTela(tag, texto){
